@@ -1,1 +1,1 @@
-<img src="main.png">
+<img src="wilber-big.png">
